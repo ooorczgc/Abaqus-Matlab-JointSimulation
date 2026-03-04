@@ -6,7 +6,7 @@ Abaqus与MATLAB的联合仿真模型。
 
 我的学习笔记链接：
 
->→→→[【暂未发布】]()
+>→→→[【Abaqus有限元分析学习笔记（1）——Abaqus与Matlab联合仿真、自动重启动分析】](https://blog.csdn.net/ooorczgc/article/details/130447879?spm=1011.2415.3001.5331)
 
 我的CSDN主页链接：
 
